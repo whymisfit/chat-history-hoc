@@ -1,0 +1,50 @@
+[
+  {
+    "id": "62bd7a447291cbe1e277a91a",
+    "text": "Hi, I'm busy",
+    "ts": 1656547860000,
+    "username": "User_1"
+  },
+  {
+    "id": "62bd7a267291cbe1e277a7fd",
+    "text": "Hello!",
+    "ts": 1656547800000,
+    "username": "User_2"
+  },
+  {
+    "id": "62bd79537291cbe1e2779fae",
+    "text": "nice",
+    "ts": 1656439500000,
+    "username": "User_1"
+  },
+  {
+    "id": "62bd78d77291cbe1e2779abf",
+    "text": "and u?",
+    "ts": 1656439260000,
+    "username": "User_2"
+  },
+  {
+    "id": "62bd78d27291cbe1e2779a7d",
+    "text": "I'm fine",
+    "ts": 1656439260000,
+    "username": "User_2"
+  },
+  {
+    "id": "62bd78c77291cbe1e27799ff",
+    "text": "Hi!",
+    "ts": 1656392340000,
+    "username": "User_2"
+  },
+  {
+    "id": "62bd78b113dd7ec8e65296c2",
+    "text": "How are you?",
+    "ts": 1656392160000,
+    "username": "User_1"
+  },
+  {
+    "id": "62bd788913dd7ec8e65296c0",
+    "text": "Hello!",
+    "ts": 1656392100000,
+    "username": "User_1"
+  }
+]
